@@ -74,7 +74,7 @@
 }
 
 .main .library {
-  background: url("./img/library.jpeg");
+  background: url("./library.jpeg");
   height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
@@ -495,7 +495,7 @@
 }
 
 .main .univer {
-  background: url("./img/book\ roomimg.jpg");
+  background: url("./book\ roomimg.jpg");
   background-size: cover;
   height: 50vh;
   width: 100%;
@@ -639,7 +639,7 @@
   }
 
   .main .library {
-    background: url("./img/library.jpeg");
+    background: url("./library.jpeg");
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -860,7 +860,7 @@
   }
 
   .main .univer {
-    background: url("./img/book\ roomimg.jpg");
+    background: url("./book\ roomimg.jpg");
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -1168,3 +1168,4 @@
     text-align: center;
   }
 }
+
