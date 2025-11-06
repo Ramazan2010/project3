@@ -74,7 +74,7 @@
 }
 
 .main .news {
-  background: url("./img/bookroomnews.jpg");
+  background: url("./bookroomnews.jpg");
   background-size: cover;
   height: 50vh;
 }
@@ -442,3 +442,4 @@
     font-size: 21px;
   }
 }
+
