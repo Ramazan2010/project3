@@ -74,7 +74,7 @@
 }
 
 .main .contact {
-  background: url("./img/liberybookroom.jpg");
+  background: url("./liberybookroom.jpg");
   height: 60vh;
   background-size: cover;
 }
@@ -370,4 +370,5 @@
     width: 80%;
     height: 250px;
   }
+
 }
